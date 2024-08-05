@@ -1,0 +1,10 @@
+.DS_Store
+.env
+kurrockfan-4981d20f5739.json
+bin/
+lib/
+data/
+include/
+output/
+pyvenv.cfg
+__pycache__
