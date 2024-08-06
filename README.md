@@ -1,4 +1,4 @@
-# Document OCR with OpenAI
+# Document OCR with Google DocumentAI
 
 ## Commands
 ```shell
